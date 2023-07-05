@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning, Machine Learning, Bayesian Methods**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mfundo-debug](https://github.com/Mfundo-debug)
+- 👨‍💻 My Portfolio available at https://mfundoportfolio.netlify.app/index.html
 
 - 💬 Ask me about **data science application**
 
