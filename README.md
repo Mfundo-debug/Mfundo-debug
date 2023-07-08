@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **diditmfundo@gmail.com**
 
-- ⚡ Fun fact **I make jokes about my errors**
+- ⚡ Fun fact **I make jokes about my errors and I enjoy watching anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
