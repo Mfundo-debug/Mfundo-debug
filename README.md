@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist</h3>
 <img align="left" alt="Programmer" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/a527f691d3c789ed7618f1c3edea804c.gif"/>
 
-Wanna use my vscode profile? ![click here](https://vscode.dev/profile/github/67ac16f7e4dc9b860c98645321bdf893)
+Wanna use my vscode profile? [vscode profile](https://vscode.dev/profile/github/67ac16f7e4dc9b860c98645321bdf893)
 
 
 - 🔭 I’m currently working on **Bayesian modelling**
