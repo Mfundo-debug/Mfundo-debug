@@ -4,6 +4,7 @@
 
 Wanna use my vscode profile? [vscode profile](https://vscode.dev/profile/github/67ac16f7e4dc9b860c98645321bdf893)
 
+Have a look at my published paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-33183-1_8">Coronavirus Lung Image Classification with Uncertainty Estimations Using Bayesian Convolutional Neural Networks</a>
 
 - 🔭 I’m currently working on **Bayesian modelling**
 
